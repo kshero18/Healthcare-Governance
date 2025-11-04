@@ -1,0 +1,5 @@
+Rule,Count
+Missing Values,0
+Negative Values,0
+Zero Variance Columns,5
+Outliers in Time in Hospital,277
